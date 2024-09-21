@@ -1,0 +1,3 @@
+-----BEGIN CERTIFICATE-----
+// Certifcate for SSL connection. It may or may not be required that depends on the AD Configuration for security purpose
+-----END CERTIFICATE-----
